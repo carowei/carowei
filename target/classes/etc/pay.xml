@@ -1,0 +1,13 @@
+
+
+<WeChat>
+    <paymode>WeChat</paymode>
+    <posPayMode>0</posPayMode>
+    <payclass>com.talkweb.wanda.newpay.client.WeChatPayClient</payclass>
+    <appid>wxb4f4ce0b1ebd1163</appid>
+    <mchid>1232334702</mchid>
+    <appsecret>d0b0acd885d823b203835dcbd3ed8bd1</appsecret>
+    <token>b4384c050f27b99151501b1a95eb529c</token>
+    <wandaApiPath>http://wdapi.wandafilm.com/filmserver/callback/wechat/app/wechatapprefundcallback</wandaApiPath>
+    <certPath>/var/opt/apache-tomcat-wandadet/webapps/wandadet/WEB-INF/classes/apiclient_cert.p12</certPath>
+</WeChat>
